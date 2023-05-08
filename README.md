@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedprogramming-exercise-3-20
+<br>
+required you to design a PID manager thatallocated a unique process identifier to each process. Exercise 4.20required you to modify your solution to Exercise 3.20 by writing aprogram that created a number of threads that requested and releasedprocess identifiers. Now modify your solution to Exercise 4.20 byensuring that the data structure used to represent the availability ofprocess identifiers is safe from race conditions. Use Pthreads mutexlocks
